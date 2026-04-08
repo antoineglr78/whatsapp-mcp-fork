@@ -42,7 +42,7 @@ Here's an example of what you can do when it's connected to Claude.
    go run main.go
    ```
 
-   The first time you run it, you will be prompted to scan a QR code. Scan the QR code with your WhatsApp mobile app to authenticate.
+   The first time you run it, you will be prompted to scan a QR code. Scan the QR code with your WhatsApp mobile app to authenticate. You may need to scan it multiple times to make it work (often 2 times)
 
    After approximately 20 days, you will might need to re-authenticate.
 
